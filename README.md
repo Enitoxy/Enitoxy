@@ -1,9 +1,9 @@
 # Introduction
-- 👋 Hi, I’m @TimelessTTV
+- 👋 Hi, I’m @TimelessOn15Hz
 - 👀 I’m interested in coding Discord bots!
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me: timeless.bus.inq@gmail.com
 ## Social Media
 You can also see my other type of content through my social media!
-- Instagram: https://instagram.com/timeless.ttv
+- Instagram: https://instagram.com/timelesson15hz
 - YouTube: https://www.youtube.com/channel/UC_E94MhLA5QDCefWXLqW33A
