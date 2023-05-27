@@ -5,7 +5,7 @@
 - 📫 How to reach me: timeless.bus.inq@gmail.com
 
 # My Favourite Repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=timebot"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=mr.-spooky"/>
 
 # My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=timelesson15hz&show_icons=true"/>
