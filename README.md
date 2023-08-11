@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=discord-webhook-deleter"/>
 
 # My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=timelesson15hz&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=timelesson15hz&show_icons=true&theme=transparent)"/>
 
 # Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=timelesson15hz&layout=compact"/>
