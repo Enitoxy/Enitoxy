@@ -2,10 +2,10 @@
 - 👋 Hi, I’m @TimelessOn15Hz
 - 👀 I’m interested in coding Discord bots!
 - 🌱 I’m currently learning Python!
-- 📫 How to reach me: timeless.bus.inq@gmail.com
+- 📫 How to reach me: @timelesson15hz on IG
 
 # My Favourite Repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=mr.-spooky"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=discord-webhook-deleter"/>
 
 # My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=timelesson15hz&show_icons=true"/>
