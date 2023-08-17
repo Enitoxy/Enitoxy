@@ -4,13 +4,13 @@
 - 🌱 I’m currently developing Excla! @ https://excla.xyz
 
 # My Favourite Repository
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=timelesson15hz&repo=discord-webhook-deleter"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=teetwonot&repo=excla"/>
 
 # My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=timelesson15hz&show_icons=true&theme=transparent)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=teetwonot&show_icons=true&theme=transparent)"/>
 
 # Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=timelesson15hz&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=teetwonot&layout=compact"/>
 
 # My Socials
 <table>
